@@ -1,4 +1,4 @@
-# Parkinson’s Disease Classification Using Speech Under a Data-Constrained Regime
+# Parkinson’s Disease Classification Using Speech Under Data-Constrained Regime
 
 This repository contains our paper **“Parkinson’s Disease Classification Using Speech Under a Data-Constrained Regime.”**
 
